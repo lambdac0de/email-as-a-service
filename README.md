@@ -1,5 +1,5 @@
 # email-as-a-service
-A simple .net core app to expose email service as a web service (http)
+A simple .net core app to expose email as a web service (http)
 
 ### Why did I make this? email is simple as it is!
 
